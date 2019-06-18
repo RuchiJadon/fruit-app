@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fruit-frontend" />
+        <module name="fruit-server-app" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fruit-client-app" target="1.8" />
+      <module name="fruit-frontend" target="1.8" />
+      <module name="fruit-server-app" target="1.8" />
+      <module name="springmongodb" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
