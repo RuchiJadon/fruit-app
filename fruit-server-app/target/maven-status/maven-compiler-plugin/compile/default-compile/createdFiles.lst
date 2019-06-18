@@ -1,0 +1,7 @@
+com\hello\model\Fruit.class
+com\hello\WebConfig.class
+com\hello\repository\DbSeeder.class
+com\hello\controller\FruitController.class
+com\hello\repository\FruitRepository.class
+com\hello\FruitApplication.class
+com\hello\services\FruitService.class

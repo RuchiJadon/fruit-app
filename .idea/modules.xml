@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fruit-frontend/fruit-frontend.iml" filepath="$PROJECT_DIR$/fruit-frontend/fruit-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fruit-server-app/fruit-server-app.iml" filepath="$PROJECT_DIR$/fruit-server-app/fruit-server-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmongodb.iml" filepath="$PROJECT_DIR$/springmongodb.iml" />
+    </modules>
+  </component>
+</project>
